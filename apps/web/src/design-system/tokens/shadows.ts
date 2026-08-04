@@ -1,6 +1,8 @@
 /**
- * Sombras suaves para transmitir profundidad sin romper
- * la sensación de calma de La Mesa.
+ * Sistema de sombras oficial de La Mesa.
+ *
+ * Las sombras deben aportar profundidad sin llamar
+ * demasiado la atención.
  */
 
 export const shadows = {
