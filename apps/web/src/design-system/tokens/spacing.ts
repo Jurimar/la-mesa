@@ -1,8 +1,9 @@
 /**
- * Escala oficial de espaciado.
+ * Escala oficial de espaciado de La Mesa.
  *
- * Está basada en incrementos consistentes para mantener
- * ritmo visual entre móvil, tablet y escritorio.
+ * Todos los márgenes, rellenos y separaciones deben utilizar
+ * estos tokens. No se deben escribir valores arbitrarios
+ * directamente dentro de los componentes.
  */
 
 export const spacing = {
