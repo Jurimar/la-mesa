@@ -1,15 +1,16 @@
 /**
- * Sistema tipográfico oficial.
+ * Sistema tipográfico oficial de La Mesa.
  *
- * La fuente principal utiliza una pila segura mientras
- * se integra definitivamente la tipografía del producto.
+ * Toda la aplicación debe utilizar estas fuentes,
+ * tamaños, pesos e interlineados.
  */
 
 export const typography = {
   fontFamily: {
     primary:
       '"Poppins", "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
-    fallback: '"Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+    fallback:
+      '"Segoe UI", Roboto, Helvetica, Arial, sans-serif',
   },
 
   fontSize: {
